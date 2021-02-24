@@ -1,8 +1,6 @@
 <!--
 **djwinston/djwinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,5 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston)
+
+
 🌱 I’m currently learning TypeScript
 🔭 I’m currently working on AMP plugin for Gridsome, Gatsby
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&layout=compact&hide=html)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djwinston)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
