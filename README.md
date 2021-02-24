@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 🌱 I’m currently learning TypeScript
 🔭 I’m currently working on AMP plugin for Gridsome, Gatsby
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&layout=compact&hide=html)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djwinston)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&layout=compact&hide=html&theme=dark)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=djwinston&theme=dark)
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
