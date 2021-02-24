@@ -49,17 +49,19 @@ Here are some ideas to get you started:
   
 </p>
 
-<p align="center"><a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&hide=html&theme=dark&&card_width=495)<br/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston)
-</a></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&hide=html&theme=dark&&card_width=495"/><br/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston"/>
+</p>
 ---
 
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
