@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 🌱 I’m currently learning TypeScript
 🔭 I’m currently working on AMP plugin for Gridsome, Gatsby
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&hide=html&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&hide=html&theme=dark&&card_width=447)
 
