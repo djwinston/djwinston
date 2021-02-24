@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston)
+
+<p><a href="https://www.linkedin.com/in/andrii-schastlivtsev-aa5076151"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://t.me/dj_WINSTON"><img src="https://img.shields.io/badge/telegram-lightblue.svg?&style=for-the-badge&logo=telegram" height=25></a><a href="skype:dj_winston?userinfo"><img src="https://img.shields.io/badge/skype-whitesmoke.svg?&style=for-the-badge&logo=skype" height=25></a></p>
 
 ---
-<p><a href="https://www.linkedin.com/in/andrii-schastlivtsev-aa5076151"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://t.me/dj_WINSTON"><img src="https://img.shields.io/badge/telegram-lightblue.svg?&style=for-the-badge&logo=telegram" height=25></a><a href="skype:dj_winston?userinfo"><img src="https://img.shields.io/badge/skype-whitesmoke.svg?&style=for-the-badge&logo=skype" height=25></a></p>
+
+<b>⚡ I’m currently working on AMP plugin for Gridsome, Gatsby SSG</b>
+
 ---
-⚡ I’m currently working on AMP plugin for Gridsome, Gatsby SSG
----
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -46,14 +48,18 @@ Here are some ideas to get you started:
   <img alt="Bulma" src="https://img.shields.io/badge/-Bulma-turquoise?style=flat-square&logo=bulma&logoColor=white" />
   
 </p>
----
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&hide=html&theme=dark&&card_width=447)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&hide=html&theme=dark&&card_width=447)<br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston)
+
 ---
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
