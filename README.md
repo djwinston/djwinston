@@ -68,5 +68,5 @@ No Activity tracked this Week
 ``` -->
 <!--END_SECTION:waka-->
 <p align="center">
-<img align='center' width=100% src="https://github-profile-trophy.vercel.app/?username=djwinston&theme=onedark&title=Commits,Repositories,PullRequest&margin-h=15"/>
+<img align='center' width=100% src="https://github-profile-trophy.vercel.app/?username=djwinston&theme=onedark&title=Commits,Repositories,PullRequest&column=3&margin-h=5"/>
 </p>
