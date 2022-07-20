@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark&show_icons=true&bg_color=transparent"/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=djwinston&hide=issues&show_icons=true&&count_private=true&include_all_commits=true&theme=dark&show_icons=true"/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djwinston&langs_count=8&hide=html&theme=dark&&card_width=495"/><br/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=djwinston.djwinston"/>
 </p>
