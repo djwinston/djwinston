@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ---
 
-<b>⚡ I’m currently working on AMP plugin for Gridsome, Gatsby SSG</b>
+<b>⚡ I’m currently working on AMP plugin for Gridsome, Gatsby</b>
 
 ---
 
